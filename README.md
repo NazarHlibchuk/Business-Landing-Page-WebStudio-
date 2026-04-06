@@ -8,7 +8,7 @@ A modern and responsive landing page created for a digital agency to present ser
 https://nazarhlibchuk.github.io/business-landing-page/
 
 ## 🛠 Technologies
-HTML, CSS, JS
+HTML, CSS
 
 ## ✨ Features
 - Fully responsive (mobile-first)
