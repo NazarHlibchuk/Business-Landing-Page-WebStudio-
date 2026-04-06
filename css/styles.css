@@ -39,6 +39,13 @@ img {
 
 .button {
     cursor: pointer;
+    background-color: #4d5ae5;
+    transition: all 0.3s ease;
+}
+
+.button:hover {
+    background-color: #404bbf;
+    transform: translateY(-2px);
 }
 
 /*common*/
